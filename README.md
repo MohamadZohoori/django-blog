@@ -1,4 +1,4 @@
-Blog App in Django
+# Blog App in Django
 
 In this repository you will learn how to create a blog app. The blog app 
 consists of an application that enables users to create posts on the websites
